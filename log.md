@@ -1,30 +1,23 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: March 24, 2017 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**
+I started working on canvas development, made a template on codepen and created a game to test it.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+The game is based on [No Tears Guide to HTML5 Games](https://www.html5rocks.com/en/tutorials/canvas/notearsgame/) and it basically 
+redoes most of it in es6 without using jquery and taking a composition + functional programming approach.
 
-**Link to work:** [Calculator App](http://www.example.com)
+I missed Enemies and Collision
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Thoughts**
+Canvas isn't so bad, I'm really looking forward to start drawing corgis and other stuff on it.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+I really need to learn how to make smaller code, this took me way beyond an hour. I hope I get faster.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+Everything i'm learning in elixir is paying off tho.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+[Canvas Template](http://codepen.io/orliph/pen/qrKYze?editors=0010)
+[Canvas Colorful Shooter](http://codepen.io/orliph/pen/VpddOW)
