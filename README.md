@@ -1,22 +1,40 @@
-# I've joined the #100DaysOfCode Challenge.
+# 100 Days Of Code - Log
 
-## Contents
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
+### Day 1: March 24, 2017 
 
-## If you've decided to join:
-1. Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
-2. Fork this repo and commit to the [Log](log.md) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
-3. **Code minimum an hour every day for the next 100 days.**
-4. Change the date in [Rules](rules.md) to the day you've started the challenge.
-5. Delete the examples in the log, or comment them out, and start filling it with your own content.
-6. **Tweet your progress every day using the #100DaysOfCode hashtag.**
-7. Follow [100DaysOfCode](https://twitter.com/_100DaysOfCode) Twitter Bot that retweets all the tweets that contain the #100DaysOfCode hashtag. It's a great way to keep yourself motivated and to participate in the community. Thanks [@amanhimself](https://twitter.com/amanhimself) for creating it!
-8. Important: Encourage others who are doing the same challenge on Twitter or elsewhere - by giving them props when they are posting updates on their progress, supporting them when things get difficult. Thus we will grow a community that is helpful and effective, which will lead to a higher success rate for each person involved. It's also more likely that you will stick to your own commitment, given that you will get acquainted with a couple people (or more) right away.
-9. If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or just tweet at me (see info below)
+#### Today's Progress
+I started working on canvas development, made a template on codepen and created a game to test it.
 
-## Note
-* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
-* If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) :)
+The game is based on [No Tears Guide to HTML5 Games](https://www.html5rocks.com/en/tutorials/canvas/notearsgame/) and it basically 
+redoes most of it in es6 without using jquery and taking a composition + functional programming approach.
+
+I missed Enemies and Collision
+
+#### Thoughts
+Canvas isn't so bad, I'm really looking forward to start drawing corgis and other stuff on it.
+
+I really need to learn how to make smaller code, this took me way beyond an hour. I hope I get faster.
+
+Everything i'm learning in elixir is paying off tho.
+
+
+#### Link(s) to work 
+1. [Canvas Template](http://codepen.io/orliph/pen/qrKYze?editors=0010)
+2. [Canvas Colorful Shooter](http://codepen.io/orliph/pen/VpddOW)
+
+### Day 2: March 25, 2017 
+
+#### Today's Progress
+I decided to make a corgi twitter bot, because why not. I based myself on [this article by freecodecamp.](https://medium.freecodecamp.com/easily-set-up-your-own-twitter-bot-4aeed5e61f7f#.fxei87o1t)
+
+The bot retweets and likes corgi stuff every 30 mins. It also has 10 unique responses for followers.
+
+#### Thoughts
+I always thought that twitter bots were a lot more complicated to make, i'm think of making a few more.
+
+I really need to start doing projects that are not corgi related.
+
+
+#### Link(s) to work 
+1. [The Corgi Bot on Twitter](https://twitter.com/AboutCorgis)
+2. [The Corgi Bot repo on github](https://github.com/orlando-paredes-hamsho/corgi-bot)
