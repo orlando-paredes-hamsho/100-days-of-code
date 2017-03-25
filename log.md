@@ -21,3 +21,20 @@ Everything i'm learning in elixir is paying off tho.
 #### Link(s) to work 
 1. [Canvas Template](http://codepen.io/orliph/pen/qrKYze?editors=0010)
 2. [Canvas Colorful Shooter](http://codepen.io/orliph/pen/VpddOW)
+
+### Day 2: March 25, 2017 
+
+#### Today's Progress
+I decided to make a corgi twitter bot, because why not. I based myself on [this article by freecodecamp.](https://medium.freecodecamp.com/easily-set-up-your-own-twitter-bot-4aeed5e61f7f#.fxei87o1t)
+
+The bot retweets and likes corgi stuff every 30 mins. It also has 10 unique responses for followers.
+
+#### Thoughts
+I always thought that twitter bots were a lot more complicated to make, i'm think of making a few more.
+
+I really need to start doing projects that are not corgi related.
+
+
+#### Link(s) to work 
+1. [The Corgi Bot on Twitter](https://twitter.com/AboutCorgis)
+2. [The Corgi Bot repo on github](https://github.com/orlando-paredes-hamsho/corgi-bot)
