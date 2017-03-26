@@ -38,3 +38,17 @@ I really need to start doing projects that are not corgi related.
 #### Link(s) to work 
 1. [The Corgi Bot on Twitter](https://twitter.com/AboutCorgis)
 2. [The Corgi Bot repo on github](https://github.com/orlando-paredes-hamsho/corgi-bot)
+
+### Day 3: March 26, 2017 
+
+#### Today's Progress
+I was inspired by my girlfriend's success in the DailyCSSImages and decided to try out making my own CSS Image of a corgi, while also learning a little bit about keyframe animations.
+
+#### Thoughts
+CSS Drawings are tough. They're way more about actual design than they actually have to do with your hability to code them.
+
+I need to get better at design. I also need to start making un-corgi projects.
+
+
+#### Link(s) to work 
+1. [Animated Sam The Corgi](http://codepen.io/orliph/pen/PpBQNb)
