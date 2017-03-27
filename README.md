@@ -52,3 +52,20 @@ I need to get better at design. I also need to start making un-corgi projects.
 
 #### Link(s) to work 
 1. [Animated Sam The Corgi](http://codepen.io/orliph/pen/PpBQNb)
+
+### Day 4: March 27, 2017 
+
+#### Today's Progress
+Continued working with canvas today, always wanted to make particle animations, so I decided to make one.
+
+Surprisingly, I wasn't able to stop at just animating particles, so I had to add some interactions.
+
+#### Thoughts
+Particles aren't so hard to make, and having them bounce and follow my mouse turned out to be a lot easier than I expected.
+
+You can also click them and, who would have known, both effects added together result in particle explosions. This is amazing.
+
+**Side note:** I actually made something that's fun to play with. I have never been this happy.
+
+#### Link(s) to work 
+1. [ES6/Canvas Interactive Particles](http://codepen.io/orliph/pen/RpYpbB?editors=0010)
