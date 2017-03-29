@@ -69,3 +69,24 @@ You can also click them and, who would have known, both effects added together r
 
 #### Link(s) to work 
 1. [ES6/Canvas Interactive Particles](http://codepen.io/orliph/pen/RpYpbB?editors=0010)
+
+### Day 5: March 29, 2017 
+
+#### Today's Progress
+I decided to create a scaffold/starterpack for developing React + Redux + TypeScript Applications.
+
+I then got frustrated at the difficulty of making Babel + TypeScript work together and decided to develop a quick codepen
+Starter pack for this same purpose.
+
+I will continue to work on this Starter Pack on the next few days to completion.
+
+#### Thoughts
+Creating setups is hard, but I really want to start using this one. 
+
+This project is teaching me a lot of things about build tools and compilers in node, to which i'm grateful.
+
+I got incredibly frustrated at not making it work with codeanywhere. Tomorrow, I will attempt cloud9.
+
+#### Link(s) to work 
+1. [Typescript + React + Redux Scaffold on GitHub](https://github.com/orlando-paredes-hamsho/typescript-react-redux-scaffold)
+2. [Quick and Dirty React+TypeScript Codepen Starter](http://codepen.io/orliph/pen/xqQOeZ)
