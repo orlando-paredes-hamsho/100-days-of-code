@@ -90,3 +90,20 @@ I got incredibly frustrated at not making it work with codeanywhere. Tomorrow, I
 #### Link(s) to work 
 1. [Typescript + React + Redux Scaffold on GitHub](https://github.com/orlando-paredes-hamsho/typescript-react-redux-scaffold)
 2. [Quick and Dirty React+TypeScript Codepen Starter](http://codepen.io/orliph/pen/xqQOeZ)
+
+### Day 6: March 30, 2017 
+
+#### Today's Progress
+I continued work on my react-redux-typescript-scaffold. I managed to add redux and babel to it, as well as improve the workflow and add hot module reload. It also now runs both locally and on cloud9.
+
+I still need to do linting and testing. Thankfully that DOES work on codeanywhere. Should be done tomorrow.
+
+#### Thoughts
+It's beautiful to work on an IDE that isn't actively conspiring against me. Jokes aside, cloud9 is a beautiful development environment that I wish I had gotten to know sooner.
+
+I learnt more about servers in Node, as well as how to pass arguments into my scripts. I'm also getting more familiar with react and redux using typescript. I'm going to need a project after this, I need to git gud.
+
+I'm also really eager to start taking contributors, things like rules for linting, bugs, fixes and improvements are going to be **very** well received.
+
+#### Link(s) to work 
+1. [Typescript + React + Redux Scaffold on GitHub](https://github.com/orlando-paredes-hamsho/typescript-react-redux-scaffold)
