@@ -107,3 +107,18 @@ I'm also really eager to start taking contributors, things like rules for lintin
 
 #### Link(s) to work 
 1. [Typescript + React + Redux Scaffold on GitHub](https://github.com/orlando-paredes-hamsho/typescript-react-redux-scaffold)
+
+### Day 7: March 31, 2017 
+
+#### Today's Progress
+Added testing and linting to my TypeScript + Babel + React + Redux Starter Pack. I encountered trouble running enzyme and ran out of time for the day (It is 8pm after all.)
+
+Maybe tomorrow I can finish this.
+
+#### Thoughts
+I learnt a lot about type declaration files and the ever changing world of JavaScript modules. I also learnt a lot about perseverance, as I was little away from quitting this project when Mocha/Chai refused to work with my setup (despite my attempts and asking nicely.)
+
+However I'm proud to say I pushed through this and am now just two steps away from finishing this mini-project (Enzyme and Coverage.)
+
+#### Link(s) to work 
+1. [TypeScript + Babel + React + Redux Starter Pack on GitHub](https://github.com/orlando-paredes-hamsho/typescript-react-redux-starter)
