@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: March 24, 2017 
+### Day 1: March 24th, 2017 
 
 #### Today's Progress
 I started working on canvas development, made a template on codepen and created a game to test it.
@@ -22,7 +22,7 @@ Everything i'm learning in elixir is paying off tho.
 1. [Canvas Template](http://codepen.io/orliph/pen/qrKYze?editors=0010)
 2. [Canvas Colorful Shooter](http://codepen.io/orliph/pen/VpddOW)
 
-### Day 2: March 25, 2017 
+### Day 2: March 25th, 2017 
 
 #### Today's Progress
 I decided to make a corgi twitter bot, because why not. I based myself on [this article by freecodecamp.](https://medium.freecodecamp.com/easily-set-up-your-own-twitter-bot-4aeed5e61f7f#.fxei87o1t)
@@ -39,7 +39,7 @@ I really need to start doing projects that are not corgi related.
 1. [The Corgi Bot on Twitter](https://twitter.com/AboutCorgis)
 2. [The Corgi Bot repo on github](https://github.com/orlando-paredes-hamsho/corgi-bot)
 
-### Day 3: March 26, 2017 
+### Day 3: March 26th, 2017 
 
 #### Today's Progress
 I was inspired by my girlfriend's success in the DailyCSSImages and decided to try out making my own CSS Image of a corgi, while also learning a little bit about keyframe animations.
@@ -53,7 +53,7 @@ I need to get better at design. I also need to start making un-corgi projects.
 #### Link(s) to work 
 1. [Animated Sam The Corgi](http://codepen.io/orliph/pen/PpBQNb)
 
-### Day 4: March 27, 2017 
+### Day 4: March 27th, 2017 
 
 #### Today's Progress
 Continued working with canvas today, always wanted to make particle animations, so I decided to make one.
@@ -70,7 +70,7 @@ You can also click them and, who would have known, both effects added together r
 #### Link(s) to work 
 1. [ES6/Canvas Interactive Particles](http://codepen.io/orliph/pen/RpYpbB?editors=0010)
 
-### Day 5: March 29, 2017 
+### Day 5: March 29th, 2017 
 
 #### Today's Progress
 I decided to create a scaffold/starterpack for developing React + Redux + TypeScript Applications.
@@ -91,7 +91,7 @@ I got incredibly frustrated at not making it work with codeanywhere. Tomorrow, I
 1. [Typescript + React + Redux Scaffold on GitHub](https://github.com/orlando-paredes-hamsho/typescript-react-redux-scaffold)
 2. [Quick and Dirty React+TypeScript Codepen Starter](http://codepen.io/orliph/pen/xqQOeZ)
 
-### Day 6: March 30, 2017 
+### Day 6: March 30th, 2017 
 
 #### Today's Progress
 I continued work on my react-redux-typescript-scaffold. I managed to add redux and babel to it, as well as improve the workflow and add hot module reload. It also now runs both locally and on cloud9.
@@ -108,7 +108,7 @@ I'm also really eager to start taking contributors, things like rules for lintin
 #### Link(s) to work 
 1. [Typescript + React + Redux Scaffold on GitHub](https://github.com/orlando-paredes-hamsho/typescript-react-redux-scaffold)
 
-### Day 7: March 31, 2017 
+### Day 7: March 31th, 2017 
 
 #### Today's Progress
 Added testing and linting to my TypeScript + Babel + React + Redux Starter Pack. I encountered trouble running enzyme and ran out of time for the day (It is 8pm after all.)
@@ -122,3 +122,19 @@ However I'm proud to say I pushed through this and am now just two steps away fr
 
 #### Link(s) to work 
 1. [TypeScript + Babel + React + Redux Starter Pack on GitHub](https://github.com/orlando-paredes-hamsho/typescript-react-redux-starter)
+
+### Day 8: April 1st, 2017 
+
+#### Today's Progress
+I was a little bit short on time today, and that may end up being the case for the next few days too. So I decided to keep things simple and remember one of my oldest tricks in the book, taught to me by a friend.
+
+I made a CSS PC that you can click to turn the monitor on, the trick is on checkboxes and sibling selectors ;)
+
+#### Thoughts
+It took me a little while to remember this one, and I also had a difficult time choosing a background image for the pc. In the end it has a picture of Sam, repeated forever. I didn't like that at first, but it grew on me.
+
+It frustrates me that I didn't get enough time to work on my starter pack, but I guess that's how things are going to be for the next few days while I prepare to go to Merida.
+
+#### Link(s) to work 
+1. [DailyCSSImages - Interactive PC](http://codepen.io/orliph/pen/BWMKVX)
+
