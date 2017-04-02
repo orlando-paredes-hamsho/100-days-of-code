@@ -138,3 +138,18 @@ It frustrates me that I didn't get enough time to work on my starter pack, but I
 #### Link(s) to work 
 1. [DailyCSSImages - Interactive PC](http://codepen.io/orliph/pen/BWMKVX)
 
+### Day 9: April 2nd, 2017 
+
+#### Today's Progress
+Took a little deviation in my process (originally TypeScript -> Meteor -> Backbone) to start learning a little bit of Meteor.
+
+#### Thoughts
+I find myself short in time again, but this challenge keeps me in check, forcing me to code for, at least, an hour each day. 
+
+Meteor is a delight to work with, I don't think I've had the feeling that something 'Just works' ever since I stopped using processwire as my main development tool. I feel spoiled when I work with meteor, and I love it.
+
+#### Link(s) to work 
+1. [Meteor-React on Github](https://github.com/orlando-paredes-hamsho/meteor-react)
+
+
+
